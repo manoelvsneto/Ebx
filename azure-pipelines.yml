@@ -21,7 +21,7 @@ stages:
         repository: 'manoelvsneto/ebx'
         command: 'buildAndPush'
         tags: '$(Build.BuildId)'
-        Dockerfile: '$(Build.SourcesDirectory)/Ebx.WebApi/Dockerfile'
+        Dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
 
     - task: KubernetesManifest@0
       displayName: Create imagePullSecret
