@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ebx-backend-deployment
+  labels:
+    app: ebx-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ebx-backend
+  template:
+    metadata:
+      labels:
+        app: ebx-backend
+    spec:
+      containers:
+      - name:  ebx-backend
+        image:  manoelvsneto/ebx
+        ports:
+        - containerPort: 8080

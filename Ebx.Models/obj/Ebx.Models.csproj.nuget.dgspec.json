@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos\\Ebx\\Ebx.Models\\Ebx.Models.csproj": {}
+    "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Ebx.Models.csproj": {}
   },
   "projects": {
-    "D:\\projetos\\Ebx\\Ebx.Models\\Ebx.Models.csproj": {
+    "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Ebx.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos\\Ebx\\Ebx.Models\\Ebx.Models.csproj",
+        "projectUniqueName": "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Ebx.Models.csproj",
         "projectName": "Ebx.Models",
-        "projectPath": "D:\\projetos\\Ebx\\Ebx.Models\\Ebx.Models.csproj",
+        "projectPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Ebx.Models.csproj",
         "packagesPath": "C:\\Users\\manoe\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos\\Ebx\\Ebx.Models\\obj\\",
+        "outputPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

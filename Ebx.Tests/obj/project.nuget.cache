@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GW7XG7H3mdK8mR+2hZ4eYaC7phUfxFl4prXZRIQ65dCpJgHB+Q9jGDI+dtZDUmO9TujR8w3PtMYyz8i7oUl+7A==",
+  "dgSpecHash": "YDFZsn3lxts+7lQVRWhPBMlqJAQyAQ4+DzVLk8tp9rMxzcb87VEiYeuWMjzFoLqjm2wiZS+7bEbrBWLvKgpSaA==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj",
+  "projectFilePath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manoe\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\manoe\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",

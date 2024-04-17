@@ -1249,11 +1249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\Ebx\\Ebx.Service\\Ebx.Service.csproj",
+      "projectUniqueName": "D:\\projetos\\EbxN\\Ebx\\Ebx.Service\\Ebx.Service.csproj",
       "projectName": "Ebx.Service",
-      "projectPath": "D:\\projetos\\Ebx\\Ebx.Service\\Ebx.Service.csproj",
+      "projectPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Service\\Ebx.Service.csproj",
       "packagesPath": "C:\\Users\\manoe\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\Ebx\\Ebx.Service\\obj\\",
+      "outputPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1276,14 +1276,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\projetos\\Ebx\\Ebx.Data\\Ebx.Data.csproj": {
-              "projectPath": "D:\\projetos\\Ebx\\Ebx.Data\\Ebx.Data.csproj"
+            "D:\\projetos\\EbxN\\Ebx\\Ebx.Data\\Ebx.Data.csproj": {
+              "projectPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Data\\Ebx.Data.csproj"
             },
-            "D:\\projetos\\Ebx\\Ebx.Models\\Ebx.Models.csproj": {
-              "projectPath": "D:\\projetos\\Ebx\\Ebx.Models\\Ebx.Models.csproj"
+            "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Ebx.Models.csproj": {
+              "projectPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Ebx.Models.csproj"
             },
-            "D:\\projetos\\Ebx\\Ebx.Repository\\Ebx.Repository.csproj": {
-              "projectPath": "D:\\projetos\\Ebx\\Ebx.Repository\\Ebx.Repository.csproj"
+            "D:\\projetos\\EbxN\\Ebx\\Ebx.Repository\\Ebx.Repository.csproj": {
+              "projectPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Repository\\Ebx.Repository.csproj"
             }
           }
         }
