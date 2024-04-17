@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZPe3KHoGc49f+mAOWoEHyCrx7OpHzzQ91MHqklLf2PE=",
+  "Source": "Ebx.WebApi",
+  "BasePath": "_content/Ebx.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

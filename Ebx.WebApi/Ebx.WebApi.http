@@ -1,0 +1,6 @@
+@Ebx.WebApi_HostAddress = http://localhost:5106
+
+GET {{Ebx.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
