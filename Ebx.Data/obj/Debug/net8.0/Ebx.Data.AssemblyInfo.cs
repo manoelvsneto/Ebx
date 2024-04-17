@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ebx.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b005aa243eb34ae592c7810bd43183b61f92094a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e36c7b128d64de6557418d26f95750bbc81655")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ebx.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ebx.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
