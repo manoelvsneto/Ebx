@@ -1,80 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\projetos\\Ebx\\Ebx.WebApi\\",
+  "WorkspaceRootPath": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B743D3-C3D0-4C9D-9ACE-3FF753BF4150}|..\\Ebx.Models\\Ebx.Models.csproj|d:\\projetos\\ebx\\ebx.models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B743D3-C3D0-4C9D-9ACE-3FF753BF4150}|..\\Ebx.Models\\Ebx.Models.csproj|d:\\projetos\\ebx\\ebx.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67AF9323-00A1-4C7C-969C-3EDAE5D7A14F}|..\\Ebx.Data\\Ebx.Data.csproj|d:\\projetos\\ebx\\ebx.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\controllers\\resetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:controllers\\resetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22AB6F2A-724B-41B5-ABA9-0C33FE9CC58E}|..\\Ebx.Repository\\Ebx.Repository.csproj|d:\\projetos\\ebxn\\ebx\\ebx.repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BBF14A1-C6EA-4DA4-AEE8-B106D7BC206B}|..\\Ebx.Tests\\Ebx.Tests.csproj|d:\\projetos\\ebx\\ebx.tests\\controllers\\resetcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6208A641-F336-402C-841E-472CAE7EA5B2}|..\\Ebx.Service\\Ebx.Service.csproj|d:\\projetos\\ebxn\\ebx\\ebx.service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BBF14A1-C6EA-4DA4-AEE8-B106D7BC206B}|..\\Ebx.Tests\\Ebx.Tests.csproj|d:\\projetos\\ebx\\ebx.tests\\controllers\\balancecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BBF14A1-C6EA-4DA4-AEE8-B106D7BC206B}|..\\Ebx.Tests\\Ebx.Tests.csproj|d:\\projetos\\ebx\\ebx.tests\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BBF14A1-C6EA-4DA4-AEE8-B106D7BC206B}|..\\Ebx.Tests\\Ebx.Tests.csproj|d:\\projetos\\ebx\\ebx.tests\\accountrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6208A641-F336-402C-841E-472CAE7EA5B2}|..\\Ebx.Service\\Ebx.Service.csproj|d:\\projetos\\ebx\\ebx.service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22AB6F2A-724B-41B5-ABA9-0C33FE9CC58E}|..\\Ebx.Repository\\Ebx.Repository.csproj|d:\\projetos\\ebx\\ebx.repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:controllers\\balancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C7B743D3-C3D0-4C9D-9ACE-3FF753BF4150}|..\\Ebx.Models\\Ebx.Models.csproj|d:\\projetos\\ebxn\\ebx\\ebx.models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BBF14A1-C6EA-4DA4-AEE8-B106D7BC206B}|..\\Ebx.Tests\\Ebx.Tests.csproj|d:\\projetos\\ebx\\ebx.tests\\controllers\\bankingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\ebx.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\ebx.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:ebx.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BBF14A1-C6EA-4DA4-AEE8-B106D7BC206B}|..\\Ebx.Tests\\Ebx.Tests.csproj|d:\\projetos\\ebx\\ebx.tests\\ebx.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67AF9323-00A1-4C7C-969C-3EDAE5D7A14F}|..\\Ebx.Data\\Ebx.Data.csproj|d:\\projetos\\ebx\\ebx.data\\ebx.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\build.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:build.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67AF9323-00A1-4C7C-969C-3EDAE5D7A14F}|..\\Ebx.Data\\Ebx.Data.csproj|d:\\projetos\\ebx\\ebx.data\\migrations\\20240416094344_createaccounttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67AF9323-00A1-4C7C-969C-3EDAE5D7A14F}|..\\Ebx.Data\\Ebx.Data.csproj|d:\\projetos\\ebx\\ebx.data\\migrations\\20240416094323_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebx\\ebx.webapi\\ebx.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\controllers\\resetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:controllers\\resetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|d:\\projetos\\ebxn\\ebx\\ebx.webapi\\ebx.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{6EFBEF54-3FDC-4D41-A894-D61345956F36}|Ebx.WebApi.csproj|solutionrelative:ebx.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Service\\AccountService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Tests\\AccountServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Repository\\AccountRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BankingControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Data\\Ebx.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\Ebx\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,178 +117,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResetControllerTests.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
-              "RelativeToolTip": "..\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\Ebx.Service\\AccountService.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.Service\\AccountService.cs",
+              "RelativeToolTip": "..\\Ebx.Service\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T14:37:46.647Z",
+              "WhenOpened": "2024-05-03T22:18:27.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BankingController.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Controllers\\BankingController.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Controllers\\BankingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BankingController.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Controllers\\BankingController.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Controllers\\BankingController.cs",
               "RelativeToolTip": "Controllers\\BankingController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDMAAAAZAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:24:24.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResetController.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Controllers\\ResetController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ResetController.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Controllers\\ResetController.cs",
-              "RelativeToolTip": "Controllers\\ResetController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAjwA0AAAAnAAAA",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Account.cs",
+              "RelativeDocumentMoniker": "..\\Ebx.Models\\Account.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.Models\\Account.cs",
+              "RelativeToolTip": "..\\Ebx.Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:26:23.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Service\\AccountService.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Service\\AccountService.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Service\\AccountService.cs",
-              "RelativeToolTip": "..\\Ebx.Service\\AccountService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADgvx0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:24:24.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountServiceTests.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountServiceTests.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Tests\\AccountServiceTests.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountServiceTests.cs",
-              "RelativeToolTip": "..\\Ebx.Tests\\AccountServiceTests.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAApwCwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T20:57:59.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccountRepositoryTests.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Tests\\AccountRepositoryTests.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs",
-              "RelativeToolTip": "..\\Ebx.Tests\\AccountRepositoryTests.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAArwEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T20:20:30.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BalanceControllerTests.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
-              "RelativeToolTip": "..\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAADgvx4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T20:59:04.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Data\\AppDbContext.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Ebx.Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:24:24.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Event.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Models\\Event.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Models\\Event.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Models\\Event.cs",
-              "RelativeToolTip": "..\\Ebx.Models\\Event.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA4wA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:14:33.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T23:17:34.674Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Models\\Account.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Models\\Account.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Models\\Account.cs",
-              "RelativeToolTip": "..\\Ebx.Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:26:29.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-16T13:24:24.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Repository\\AccountRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.Repository\\AccountRepository.cs",
               "RelativeDocumentMoniker": "..\\Ebx.Repository\\AccountRepository.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.Repository\\AccountRepository.cs",
               "RelativeToolTip": "..\\Ebx.Repository\\AccountRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:24:24.095Z"
+              "WhenOpened": "2024-04-22T23:17:03.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 18,
+              "Title": "BalanceControllerTests.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Tests\\Controllers\\BalanceControllerTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADgvx4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:24:24.102Z"
+              "WhenOpened": "2024-04-16T20:59:04.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Data\\AppDbContext.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:24:24.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T13:24:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResetController.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Controllers\\ResetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResetController.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Controllers\\ResetController.cs",
+              "RelativeToolTip": "Controllers\\ResetController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:26:23.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Ebx.WebApi.csproj",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Ebx.WebApi.csproj",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Ebx.WebApi.csproj",
               "RelativeDocumentMoniker": "Ebx.WebApi.csproj",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Ebx.WebApi.csproj",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Ebx.WebApi.csproj",
               "RelativeToolTip": "Ebx.WebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -275,23 +228,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "BalanceController.cs",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Controllers\\BalanceController.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Controllers\\BalanceController.cs",
               "RelativeDocumentMoniker": "Controllers\\BalanceController.cs",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Controllers\\BalanceController.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Controllers\\BalanceController.cs",
               "RelativeToolTip": "Controllers\\BalanceController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwA4AAAAkAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:24:24.293Z"
+              "WhenOpened": "2024-04-16T13:24:24.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
+              "Title": "AccountRepositoryTests.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Tests\\AccountRepositoryTests.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAArwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:20:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountServiceTests.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Tests\\AccountServiceTests.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\AccountServiceTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Tests\\AccountServiceTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAApwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:57:59.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "deployment.yaml",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\deployment.yaml",
+              "RelativeDocumentMoniker": "deployment.yaml",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\deployment.yaml",
+              "RelativeToolTip": "deployment.yaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-18T13:07:38.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "build.yaml",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\build.yaml",
+              "RelativeDocumentMoniker": "build.yaml",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\build.yaml",
+              "RelativeToolTip": "build.yaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-18T13:07:42.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "service.yaml",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\service.yaml",
+              "RelativeDocumentMoniker": "service.yaml",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\service.yaml",
+              "RelativeToolTip": "service.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-18T13:07:48.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Service\\AccountService.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Service\\AccountService.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Service\\AccountService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvx0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:24:24.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetControllerTests.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Tests\\Controllers\\ResetControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:37:46.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Models\\Event.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Models\\Event.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Models\\Event.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Models\\Event.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:14:33.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Models\\Account.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Models\\Account.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Models\\Account.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:26:29.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\projetos\\Ebx\\Ebx.Repository\\AccountRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:24:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:24:24.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\appsettings.json",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\appsettings.json",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -299,71 +385,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "BankingControllerTests.cs",
               "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BankingControllerTests.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Tests\\Controllers\\BankingControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Tests\\Controllers\\BankingControllerTests.cs",
               "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\Controllers\\BankingControllerTests.cs",
-              "RelativeToolTip": "..\\Ebx.Tests\\Controllers\\BankingControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Tests\\Controllers\\BankingControllerTests.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAiwCcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T20:59:09.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Ebx.Tests.csproj",
               "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\Ebx.Tests\\Ebx.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj",
               "ToolTip": "D:\\projetos\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj",
-              "RelativeToolTip": "..\\Ebx.Tests\\Ebx.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Tests\\Ebx.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-16T19:58:13.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Ebx.Data.csproj",
               "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Data\\Ebx.Data.csproj",
-              "RelativeDocumentMoniker": "..\\Ebx.Data\\Ebx.Data.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Data\\Ebx.Data.csproj",
               "ToolTip": "D:\\projetos\\Ebx\\Ebx.Data\\Ebx.Data.csproj",
-              "RelativeToolTip": "..\\Ebx.Data\\Ebx.Data.csproj",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Data\\Ebx.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-16T13:24:24.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "20240416094344_CreateAccountTable.cs",
               "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs",
               "ToolTip": "D:\\projetos\\Ebx\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs",
-              "RelativeToolTip": "..\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Data\\Migrations\\20240416094344_CreateAccountTable.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA6wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:24:24.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "20240416094323_InitialCreate.cs",
               "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs",
-              "RelativeDocumentMoniker": "..\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Ebx\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs",
               "ToolTip": "D:\\projetos\\Ebx\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs",
-              "RelativeToolTip": "..\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\Ebx\\Ebx.Data\\Migrations\\20240416094323_InitialCreate.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T13:24:24.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "Ebx.WebApi.http",
-              "DocumentMoniker": "D:\\projetos\\Ebx\\Ebx.WebApi\\Ebx.WebApi.http",
+              "DocumentMoniker": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Ebx.WebApi.http",
               "RelativeDocumentMoniker": "Ebx.WebApi.http",
-              "ToolTip": "D:\\projetos\\Ebx\\Ebx.WebApi\\Ebx.WebApi.http",
+              "ToolTip": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Ebx.WebApi.http",
               "RelativeToolTip": "Ebx.WebApi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",

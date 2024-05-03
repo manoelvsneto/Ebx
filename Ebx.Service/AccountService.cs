@@ -109,6 +109,11 @@ namespace Ebx.Service
             _repository.Add(account);
             return true;
         }
+
+        public List<Account> GetAll()
+        {
+            return _repository.GetList();
+        }
     }
 
 }

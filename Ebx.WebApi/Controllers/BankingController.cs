@@ -1,6 +1,7 @@
 ﻿using Ebx.Models;
 using Ebx.Service;
 using Microsoft.AspNetCore.Mvc;
+using static Ebx.Models.Event;
 
 namespace Ebx.WebApi.Controllers
 {
@@ -28,7 +29,7 @@ namespace Ebx.WebApi.Controllers
                         }
                     });
                 case "withdraw":
-                    bool res = _accountService.Withdraw( request.Origin, request.Amount);
+                    bool res = _accountService.Withdraw(request.Origin, request.Amount);
                     if (res)
                     {
                         return Created("", new
@@ -60,6 +61,12 @@ namespace Ebx.WebApi.Controllers
                     }
             }
             return NotFound(0);
+        }
+
+        [HttpGet]
+        public IActionResult Get()
+        {
+            return Ok(_accountService.GetAll());
         }
     }
 }

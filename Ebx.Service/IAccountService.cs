@@ -5,6 +5,7 @@ namespace Ebx.Service
     public interface IAccountService
     {
         Account GetBalance(string accountId);
+        List<Account> GetAll();
         bool Deposit(string id, int amount);
         bool Withdraw(string id, int amount);
         bool Transfer(string originAccountId, string destinationAccountId, int amount);

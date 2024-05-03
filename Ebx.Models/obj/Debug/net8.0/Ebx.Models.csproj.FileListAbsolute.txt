@@ -20,3 +20,15 @@ D:\projetos\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.dll
 D:\projetos\Ebx\Ebx.Models\obj\Debug\net8.0\refint\Ebx.Models.dll
 D:\projetos\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.pdb
 D:\projetos\Ebx\Ebx.Models\obj\Debug\net8.0\ref\Ebx.Models.dll
+D:\projetos\EbxN\Ebx\Ebx.Models\bin\Debug\net8.0\Ebx.Models.deps.json
+D:\projetos\EbxN\Ebx\Ebx.Models\bin\Debug\net8.0\Ebx.Models.dll
+D:\projetos\EbxN\Ebx\Ebx.Models\bin\Debug\net8.0\Ebx.Models.pdb
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.AssemblyInfoInputs.cache
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.AssemblyInfo.cs
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.csproj.CoreCompileInputs.cache
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.sourcelink.json
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.dll
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\refint\Ebx.Models.dll
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\Ebx.Models.pdb
+D:\projetos\EbxN\Ebx\Ebx.Models\obj\Debug\net8.0\ref\Ebx.Models.dll
