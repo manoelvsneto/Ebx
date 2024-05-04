@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PplFARO+F4d0Z7YRIvkSy/8zoOjdH0ugtAVQCKrkP1PSwjOFn857yL1BARfABj/kwdOjzGyrSORbwj/PaFzStQ==",
+  "dgSpecHash": "uiz4Sn6Gx6XK02H493z+WbXFEyw+3/CRJXgUx4W/Ac1PNrsACj2m1fi6A7KIXlK+xZyn7+ayuVAKyRD/4Sor6g==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\EbxN\\Ebx\\Ebx.Data\\Ebx.Data.csproj",
+  "projectFilePath": "D:\\projetos\\Ebx\\Ebx.Data\\Ebx.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manoe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\manoe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ebx.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec2bc6b2f0ad36234f2a5abdfa497f945527f85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+884f07c2f614b3737923164d150bc03564ea2bb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ebx.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ebx.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

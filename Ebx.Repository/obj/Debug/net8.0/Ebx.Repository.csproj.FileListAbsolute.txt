@@ -52,3 +52,4 @@ D:\projetos\EbxN\Ebx\Ebx.Repository\obj\Debug\net8.0\Ebx.Repository.dll
 D:\projetos\EbxN\Ebx\Ebx.Repository\obj\Debug\net8.0\refint\Ebx.Repository.dll
 D:\projetos\EbxN\Ebx\Ebx.Repository\obj\Debug\net8.0\Ebx.Repository.pdb
 D:\projetos\EbxN\Ebx\Ebx.Repository\obj\Debug\net8.0\ref\Ebx.Repository.dll
+D:\projetos\Ebx\Ebx.Repository\obj\Debug\net8.0\Ebx.Repository.sourcelink.json

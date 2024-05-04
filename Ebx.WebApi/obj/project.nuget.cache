@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9hABtZ4lWJUt6QpmDLLw3ZGa6ZbgpAMwU6sbuCk+bjaLh09Gg+r6elQ3/B6zKwJk14dgyT4ORh4Hp3ndZzZ/Q==",
+  "dgSpecHash": "VUpxZip5NWfoAnKhGHzSVSsKsKATZ/X3BLBKIeFoJWrzwGWcjWXpJJSVSOmFvm+/vN0dDPvKCrEvTDZHmZcSLw==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\EbxN\\Ebx\\Ebx.WebApi\\Ebx.WebApi.csproj",
+  "projectFilePath": "D:\\projetos\\Ebx\\Ebx.WebApi\\Ebx.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manoe\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\manoe\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

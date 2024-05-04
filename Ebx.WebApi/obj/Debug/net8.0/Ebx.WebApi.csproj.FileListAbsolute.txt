@@ -209,3 +209,4 @@ D:\projetos\EbxN\Ebx\Ebx.WebApi\obj\Debug\net8.0\refint\Ebx.WebApi.dll
 D:\projetos\EbxN\Ebx\Ebx.WebApi\obj\Debug\net8.0\Ebx.WebApi.pdb
 D:\projetos\EbxN\Ebx\Ebx.WebApi\obj\Debug\net8.0\Ebx.WebApi.genruntimeconfig.cache
 D:\projetos\EbxN\Ebx\Ebx.WebApi\obj\Debug\net8.0\ref\Ebx.WebApi.dll
+D:\projetos\Ebx\Ebx.WebApi\obj\Debug\net8.0\Ebx.WebApi.sourcelink.json

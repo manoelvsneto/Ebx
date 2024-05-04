@@ -52,3 +52,4 @@ D:\projetos\EbxN\Ebx\Ebx.Data\obj\Debug\net8.0\refint\Ebx.Data.dll
 D:\projetos\EbxN\Ebx\Ebx.Data\obj\Debug\net8.0\Ebx.Data.pdb
 D:\projetos\EbxN\Ebx\Ebx.Data\obj\Debug\net8.0\Ebx.Data.genruntimeconfig.cache
 D:\projetos\EbxN\Ebx\Ebx.Data\obj\Debug\net8.0\ref\Ebx.Data.dll
+D:\projetos\Ebx\Ebx.Data\obj\Debug\net8.0\Ebx.Data.sourcelink.json

@@ -58,3 +58,4 @@ D:\projetos\EbxN\Ebx\Ebx.Service\obj\Debug\net8.0\Ebx.Service.dll
 D:\projetos\EbxN\Ebx\Ebx.Service\obj\Debug\net8.0\refint\Ebx.Service.dll
 D:\projetos\EbxN\Ebx\Ebx.Service\obj\Debug\net8.0\Ebx.Service.pdb
 D:\projetos\EbxN\Ebx\Ebx.Service\obj\Debug\net8.0\ref\Ebx.Service.dll
+D:\projetos\Ebx\Ebx.Service\obj\Debug\net8.0\Ebx.Service.sourcelink.json

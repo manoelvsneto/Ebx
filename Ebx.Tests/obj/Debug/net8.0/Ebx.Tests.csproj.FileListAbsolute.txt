@@ -57,3 +57,4 @@ D:\projetos\EbxN\Ebx\Ebx.Tests\obj\Debug\net8.0\Ebx.Tests.dll
 D:\projetos\EbxN\Ebx\Ebx.Tests\obj\Debug\net8.0\refint\Ebx.Tests.dll
 D:\projetos\EbxN\Ebx\Ebx.Tests\obj\Debug\net8.0\Ebx.Tests.pdb
 D:\projetos\EbxN\Ebx\Ebx.Tests\obj\Debug\net8.0\ref\Ebx.Tests.dll
+D:\projetos\Ebx\Ebx.Tests\obj\Debug\net8.0\Ebx.Tests.sourcelink.json
