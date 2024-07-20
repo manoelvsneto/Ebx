@@ -49,3 +49,11 @@ stages:
         imagePullSecrets: |
           $(imagePullSecret)
         containers: 'manoelvsneto/ebx:$(Build.BuildId)'
+    - task: DockerCompose@1
+      inputs:
+        containerregistrytype: 'Azure Container Registry'
+        azureSubscription: 'Assinatura do Visual Studio Enterprise(2)(df29ae38-c766-49c6-bffe-6ecb1fccc959)'
+        azureContainerRegistry: '{"loginServer":"archse.azurecr.io", "id" : "/subscriptions/df29ae38-c766-49c6-bffe-6ecb1fccc959/resourceGroups/MCTResourceGroup/providers/Microsoft.ContainerRegistry/registries/archse"}'
+        dockerComposeFile: '**/dockerfile'
+        action: Push services
+        includeSourceTags: true
