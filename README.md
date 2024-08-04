@@ -1,6 +1,12 @@
 # Ebx
-Versão publicada no Kubernetes em Oracle Cloud (OCI) via Azure PipeLines with GitAction CI/CD.
+Versão publicada no Kubernetes em Oracle Cloud (OCI) via Azure PipeLines with GitAction CI/CD e Publicação para Azure Container Apps via Azure Devops Pipelines
+
+#Arm64
 http://backend.archse.eng.br:32009/swagger/index.html
+
+#Amd64
+https://ebx.politebay-c2ec7d5f.eastus.azurecontainerapps.io/swagger/index.html
+
 
 Imagem Docker gerada no docker hub.
 https://hub.docker.com/r/manoelvsneto/ebx
