@@ -30,30 +30,3 @@ stages:
         command: 'buildAndPush'
         tags: '$(Build.BuildId)'
         Dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
-
-    - task: KubernetesManifest@0
-      displayName: Create imagePullSecret
-      inputs:
-        kubernetesServiceConnection: K8SOracleCloud
-        action: createSecret
-        secretName: $(imagePullSecret)
-        dockerRegistryEndpoint: 'DockerConnection'
-    
-    - task: PublishPipelineArtifact@1
-      displayName: Publish Report
-      inputs:
-        artifact: '_Ebx.WebApi'
-        publishLocation: 'pipeline'
-    
-    - task: KubernetesManifest@0
-      displayName: Deploy to Kubernetes cluster
-      inputs:
-        kubernetesServiceConnection: K8SOracleCloud
-        action: deploy
-        manifests: |
-          $(Build.SourcesDirectory)/Ebx.WebApi/deployment.yaml
-          $(Build.SourcesDirectory)/Ebx.WebApi/service.yaml
-          $(Build.SourcesDirectory)/Ebx.WebApi/ingress.yaml
-        imagePullSecrets: |
-          $(imagePullSecret)
-        containers: 'manoelvsneto/ebx:$(Build.BuildId)'
