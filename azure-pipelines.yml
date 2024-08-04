@@ -23,14 +23,6 @@ stages:
         tags: '$(Build.BuildId)'
         Dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
     
-    - task: Docker@2
-      inputs:
-        containerRegistry: 'AzureContainerRegistry'
-        repository: 'manoelvsneto/ebx'
-        command: 'buildAndPush'
-        tags: '$(Build.BuildId)'
-        Dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
-
     - task: KubernetesManifest@0
       displayName: Create imagePullSecret
       inputs:
