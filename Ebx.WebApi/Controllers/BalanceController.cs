@@ -18,7 +18,7 @@ namespace Ebx.WebApi.Controllers
         /// <summary>
         ///  teste
         /// </summary>
-        /// <param name="account_id"></param>
+        /// <param name="account_id">account_id</param>
         /// <returns></returns>
         /// <returns></returns>
         [HttpGet]
